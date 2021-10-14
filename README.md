@@ -1,1 +1,3 @@
 # OREDATA_STAJ
+
+İMAGE DETECT:
